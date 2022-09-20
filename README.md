@@ -1,7 +1,7 @@
-# Gameboy MBC1 / MBC2 Flash Adapter PCBs
-A collection of MBC1 Flash Boards for Gameboy Cartridges. KiCad Projects & Gerber .zip packages available.
+# Gameboy MBC1 / MBC2 / MBC3 Flash Adapter PCBs
+A collection of MBC1 / MBC2 / MBC3 Flash Boards for Gameboy Cartridges. KiCad Projects & Gerber .zip packages available.
 
-Boards also work with Gameboy PCBs with MBC2, however are limited to 256KB or less sized games.
+Boards work with Gameboy PCBs with MBC2, however are limited to 256KB or less sized games due to MBC2 limitations.
 
 ![IMG_1303](https://user-images.githubusercontent.com/31223405/158221592-fe2328dc-01ab-4d1b-806c-c974c95bd931.jpg)
 
